@@ -7,12 +7,5 @@ logs/
 *.exe
 *.o
 
-pA/tests/*.in
-pB/tests/*.in
-pB/tests/*.out
-pC/tests/*.in
-pC/tests/*.out
-pD/tests/*.in
-pD/tests/*.out
-pE/tests/*.in
-pE/tests/*.out
+p?/tests/*.in
+p?/tests/*.out

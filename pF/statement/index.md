@@ -1,4 +1,4 @@
-# PF. Series
+# pF. Series
 
 有四個數字 $\text{b, n, m, k}$。
 試求 $\left(\displaystyle\sum_{i=1}^n i^k \cdot b^i\right) \text{(mod m)}$

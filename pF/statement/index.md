@@ -7,7 +7,7 @@
 \clearpage
 
 ## 輸入
-第一行有四個數字 b, n, m, k
+第一行有四個數字，依序為 b, n, m, k
 
 ## 輸出
 輸出 $\left(\displaystyle\sum_{i=1}^n i^k \cdot b^i\right) \text{(mod m)}$

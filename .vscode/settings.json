@@ -1,0 +1,11 @@
+{
+	"files.trimTrailingWhitespace": true,
+	"[markdown]": {
+		"files.trimTrailingWhitespace": false
+	},
+	"[cpp]": {
+		"files.trimTrailingWhitespace": false
+	},
+	"files.eol": "\n",
+	"files.insertFinalNewline": true
+}

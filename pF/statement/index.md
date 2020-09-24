@@ -13,10 +13,10 @@
 輸出 $\left(\displaystyle\sum_{i=1}^n i^k \cdot b^i\right) \text{(mod m)}$
 
 ## 輸入限制
- - $0 \leq $b$ \leq 100$
- - $1 \leq $n$ \leq 10^9$
- - $1 \leq $m$ \leq 10^9+7$
- - $1 \leq $k$ \leq 10^18$
+ - $0 \leq b \leq 100$
+ - $1 \leq n \leq 10^9$
+ - $1 \leq m \leq 10^9+7$
+ - $1 \leq k \leq 10^18$
 
 ## 子任務
 \subtasks

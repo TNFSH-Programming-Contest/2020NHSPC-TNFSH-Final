@@ -12,43 +12,43 @@
         "1": {
             "index": 1,
             "text": "$N \\leq 5,~M \\leq 10$",
-            "score": 10,
+            "score": 14,
             "validators": []
         },
         "2": {
             "index": 2,
             "text": "$S = 1$, $1$ 至 $N$ 依序組成一條鍊",
-            "score": 15,
+            "score": 14,
             "validators": []
         },
         "3": {
             "index": 3,
             "text": "$M = N-1$",
-            "score": 20,
+            "score": 14,
             "validators": []
         },
         "4": {
             "index": 4,
             "text": "所有點度數 $= 2$",
-            "score": 25,
+            "score": 14,
             "validators": []
         },
         "5": {
             "index": 5,
             "text": "$N \\leq 100$",
-            "score": 30,
+            "score": 14,
             "validators": []
         },
 		"6": {
             "index": 6,
             "text": "$N \\leq 300,~M \\leq 1000$",
-            "score": 30,
+            "score": 14,
             "validators": []
         },
 		"7": {
             "index": 7,
             "text": "無特殊限制",
-            "score": 30,
+            "score": 16,
             "validators": []
         }
     }

@@ -3,35 +3,47 @@
         "validator.cpp"
     ],
     "subtasks": {
+        "0": {
+			"index": 0,
+			"text": "範例測資",
+			"score": 0,
+			"validators": []
+		},
         "1": {
             "index": 1,
-            "text": "Text for subtask 1",
-            "score": 10,
+            "text": "$N \\leq 10,~M \\leq 15$",
+            "score": 16,
             "validators": []
         },
         "2": {
             "index": 2,
-            "text": "Text for subtask 2",
-            "score": 15,
+            "text": "存在點 $i$ 使 $i$ 到其他任一點恰有一條路徑",
+            "score": 16,
             "validators": []
         },
         "3": {
             "index": 3,
-            "text": "Text for subtask 3",
-            "score": 20,
+            "text": "所有點入度, 出度 $\\leq 1$",
+            "score": 16,
             "validators": []
         },
         "4": {
             "index": 4,
-            "text": "Text for subtask 4",
-            "score": 25,
+            "text": "$N \\leq 100$",
+            "score": 16,
             "validators": []
         },
         "5": {
             "index": 5,
-            "text": "無特殊限制",
-            "score": 30,
+            "text": "所有點出度 $\\leq 10$",
+            "score": 16,
             "validators": []
-        }
+        },
+		"6": {
+            "index": 6,
+            "text": "無特殊限制",
+            "score": 20,
+            "validators": []
+        },
     }
 }

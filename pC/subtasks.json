@@ -3,32 +3,50 @@
         "validator.cpp"
     ],
     "subtasks": {
+		"0": {
+			"index": 0,
+			"text": "範例測資",
+			"score": 0,
+			"validators": []
+		},
         "1": {
             "index": 1,
-            "text": "Text for subtask 1",
+            "text": "$N \\leq 5,~M \\leq 10$",
             "score": 10,
             "validators": []
         },
         "2": {
             "index": 2,
-            "text": "Text for subtask 2",
+            "text": "$S = 1$, $1$ 至 $N$ 依序組成一條鍊",
             "score": 15,
             "validators": []
         },
         "3": {
             "index": 3,
-            "text": "Text for subtask 3",
+            "text": "$M = N-1$",
             "score": 20,
             "validators": []
         },
         "4": {
             "index": 4,
-            "text": "Text for subtask 4",
+            "text": "所有點度數 $= 2$",
             "score": 25,
             "validators": []
         },
         "5": {
             "index": 5,
+            "text": "$N \\leq 100$",
+            "score": 30,
+            "validators": []
+        },
+		"6": {
+            "index": 6,
+            "text": "$N \\leq 300,~M \\leq 1000$",
+            "score": 30,
+            "validators": []
+        },
+		"7": {
+            "index": 7,
             "text": "無特殊限制",
             "score": 30,
             "validators": []

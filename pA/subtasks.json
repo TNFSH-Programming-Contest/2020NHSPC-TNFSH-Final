@@ -3,34 +3,40 @@
         "validator.cpp"
     ],
     "subtasks": {
+		"0": {
+			"index": 0,
+			"text": "範例測資",
+			"score": 0,
+			"validators": []
+		},
         "1": {
             "index": 1,
-            "text": "Text for subtask 1",
-            "score": 10,
+            "text": "排列為遞增或遞減",
+            "score": 20,
             "validators": []
         },
         "2": {
             "index": 2,
-            "text": "Text for subtask 2",
-            "score": 15,
+            "text": "$n \\leq 8$",
+            "score": 20,
             "validators": []
         },
         "3": {
             "index": 3,
-            "text": "Text for subtask 3",
+            "text": "$n \\leq 20",
             "score": 20,
             "validators": []
         },
         "4": {
             "index": 4,
-            "text": "Text for subtask 4",
-            "score": 25,
+            "text": "$n \\leq 10^3$",
+            "score": 20,
             "validators": []
         },
         "5": {
             "index": 5,
             "text": "無特殊限制",
-            "score": 30,
+            "score": 20,
             "validators": []
         }
     }

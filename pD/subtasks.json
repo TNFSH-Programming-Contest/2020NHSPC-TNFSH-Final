@@ -4,11 +4,11 @@
     ],
     "subtasks": {
         "0": {
-			"index": 0,
-			"text": "範例測資",
-			"score": 0,
-			"validators": []
-		},
+            "index": 0,
+            "text": "範例測資",
+            "score": 0,
+            "validators": []
+        },
         "1": {
             "index": 1,
             "text": "$N \\leq 10,~M \\leq 15$",
@@ -39,11 +39,11 @@
             "score": 16,
             "validators": []
         },
-		"6": {
+        "6": {
             "index": 6,
             "text": "無特殊限制",
             "score": 20,
             "validators": []
-        },
+        }
     }
 }

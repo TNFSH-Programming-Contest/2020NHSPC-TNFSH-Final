@@ -3,12 +3,12 @@
         "validator.cpp"
     ],
     "subtasks": {
-		"0": {
-			"index": 0,
-			"text": "範例測資",
-			"score": 0,
-			"validators": []
-		},
+        "0": {
+            "index": 0,
+            "text": "範例測資",
+            "score": 0,
+            "validators": []
+        },
         "1": {
             "index": 1,
             "text": "$N \\leq 5,~M \\leq 10$",
@@ -39,13 +39,13 @@
             "score": 14,
             "validators": []
         },
-		"6": {
+        "6": {
             "index": 6,
             "text": "$N \\leq 300,~M \\leq 1000$",
             "score": 14,
             "validators": []
         },
-		"7": {
+        "7": {
             "index": 7,
             "text": "無特殊限制",
             "score": 16,

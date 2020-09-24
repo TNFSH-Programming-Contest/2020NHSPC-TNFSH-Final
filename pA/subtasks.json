@@ -23,7 +23,7 @@
         },
         "3": {
             "index": 3,
-            "text": "$n \\leq 20",
+            "text": "$n \\leq 20$",
             "score": 20,
             "validators": []
         },

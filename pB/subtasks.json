@@ -3,12 +3,12 @@
         "validator.cpp"
     ],
     "subtasks": {
-		"0": {
-			"index": 0,
-			"text": "範例測資",
-			"score": 0,
-			"validators": []
-		},
+        "0": {
+            "index": 0,
+            "text": "範例測資",
+            "score": 0,
+            "validators": []
+        },
         "1": {
             "index": 1,
             "text": "$n = 1$ 或 $n = 2$",
@@ -39,19 +39,19 @@
             "score": 12,
             "validators": []
         },
-		"6": {
+        "6": {
             "index": 6,
             "text": "P為凸多邊形",
             "score": 12,
             "validators": []
         },
-		"7": {
+        "7": {
             "index": 7,
             "text": "輸入精度最多一位",
             "score": 12,
             "validators": []
         },
-		"8": {
+        "8": {
             "index": 8,
             "text": "無特殊限制",
             "score": 16,

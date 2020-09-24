@@ -4,11 +4,11 @@
     ],
     "subtasks": {
         "0": {
-			"index": 0,
-			"text": "範例測資",
-			"score": 0,
-			"validators": []
-		},
+            "index": 0,
+            "text": "範例測資",
+            "score": 0,
+            "validators": []
+        },
         "1": {
             "index": 1,
             "text": "$n \\leq 10^6$",
@@ -39,35 +39,35 @@
             "score": 16,
             "validators": []
         },
-		"6": {
+        "6": {
             "index": 6,
             "text": "$m$ 的質因數包含於 $b$ 的質因數",
             "score": 20,
             "validators": []
         },
-		"7": {
+        "7": {
             "index": 7,
             "text": "$k = 0,~\text{gcd}(b-1,~m) = 1$",
             "score": 20,
             "validators": []
         },
-		"8": {
+        "8": {
             "index": 8,
             "text": "$k = 1,~\text{gcd}(b-1,~m) = 1$",
             "score": 20,
             "validators": []
         },
-		"9": {
+        "9": {
             "index": 9,
             "text": "$k = 1$",
             "score": 20,
             "validators": []
         },
-		"10": {
+        "10": {
             "index": 10,
             "text": "無特殊限制",
             "score": 20,
             "validators": []
-        },
+        }
     }
 }

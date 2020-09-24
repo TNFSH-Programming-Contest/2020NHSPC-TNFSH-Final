@@ -3,7 +3,7 @@
 \begin{figure}[h]
 \centering
 \includegraphics[width=5in]{img.jpg}
-\caption{主角優奈}
+\caption{主角優奈，出自動畫《熊熊勇闖異世界》}
 \end{figure}
 
 今天優奈又在WORLD．FANTASY．ONLINE遊戲裡到地下城尋寶。  

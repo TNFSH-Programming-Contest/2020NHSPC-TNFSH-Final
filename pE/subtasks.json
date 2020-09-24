@@ -17,7 +17,7 @@
         },
         "2": {
             "index": 2,
-            "text": "$\\sum{ai} \\leq 18$",
+            "text": "$\\sum{a_i} \\leq 18$",
             "score": 16,
             "validators": []
         },
@@ -29,13 +29,13 @@
         },
         "4": {
             "index": 4,
-            "text": "$\\sum{ai} \\leq 500$",
+            "text": "$\\sum{a_i} \\leq 500$",
             "score": 16,
             "validators": []
         },
         "5": {
             "index": 5,
-            "text": "$\\sum{ai} \\leq 10^5$",
+            "text": "$\\sum{a_i} \\leq 10^5$",
             "score": 16,
             "validators": []
         },

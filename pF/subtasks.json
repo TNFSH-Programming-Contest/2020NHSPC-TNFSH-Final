@@ -29,7 +29,7 @@
         },
         "4": {
             "index": 4,
-            "text": "$m \\leq 1000,~\text{gcd}(b,~m) = 1$",
+            "text": "$m \\leq 1000,~\\text{gcd}(b,~m) = 1$",
             "score": 16,
             "validators": []
         },
@@ -47,13 +47,13 @@
         },
         "7": {
             "index": 7,
-            "text": "$k = 0,~\text{gcd}(b-1,~m) = 1$",
+            "text": "$k = 0,~\\text{gcd}(b-1,~m) = 1$",
             "score": 20,
             "validators": []
         },
         "8": {
             "index": 8,
-            "text": "$k = 1,~\text{gcd}(b-1,~m) = 1$",
+            "text": "$k = 1,~\\text{gcd}(b-1,~m) = 1$",
             "score": 20,
             "validators": []
         },

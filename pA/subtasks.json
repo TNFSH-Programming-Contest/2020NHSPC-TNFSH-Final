@@ -17,19 +17,19 @@
         },
         "2": {
             "index": 2,
-            "text": "$n \\leq 8$",
+            "text": "$N \\leq 8$",
             "score": 20,
             "validators": []
         },
         "3": {
             "index": 3,
-            "text": "$n \\leq 20$",
+            "text": "$N \\leq 20$",
             "score": 20,
             "validators": []
         },
         "4": {
             "index": 4,
-            "text": "$n \\leq 10^3$",
+            "text": "$N \\leq 10^3$",
             "score": 20,
             "validators": []
         },

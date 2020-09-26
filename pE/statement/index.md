@@ -33,6 +33,7 @@
 ## 輸入限制
  - $1 \le N \le 10^6$
  - $1 \le a_i \le 10^6$
+ - 對於 $\forall 2 \leq i \leq N$，$a_{i-1} \leq a_{i}$
 
 ## 子任務
 \subtasks

@@ -6,6 +6,3 @@ logs/
 # C binaries
 *.exe
 *.o
-
-p?/tests/*.in
-p?/tests/*.out

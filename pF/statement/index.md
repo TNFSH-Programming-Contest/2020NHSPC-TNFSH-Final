@@ -15,7 +15,7 @@
 
 之後悠悠地說：「哈哈沒有啦，那是別的課程的東西，要問你們的問題是：  
 
-給你們四個整數 $b, n, m, k$，試求 $\left(\displaystyle\sum_{i=1}^n i^k \cdot b^i\right) (\text{mod} m)$」。  
+給你們四個整數 $b, n, m, k$，試求 $\left(\displaystyle\sum_{i=1}^n i^k \cdot b^i\right) (\text{mod}~m)$」。  
 
 ## 輸入
 第一行有四個數字，依序為 $b, n, m, k$。  

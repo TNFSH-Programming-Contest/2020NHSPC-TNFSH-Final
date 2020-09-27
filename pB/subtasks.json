@@ -13,56 +13,56 @@
         "2": {
             "index": 1,
             "text": "$N = 1$ 或 $N = 2$",
-            "score": 12,
+            "score": 3,
             "regex": "1-.+",
             "validators": []
         },
         "3": {
             "index": 2,
             "text": "$A$ 在 $P$ 的頂點上",
-            "score": 12,
+            "score": 6,
             "regex": "2-.+",
             "validators": []
         },
         "4": {
             "index": 3,
             "text": "$A$ 在 $P$ 內",
-            "score": 12,
+            "score": 8,
             "regex": "3-.+",
             "validators": []
         },
         "5": {
             "index": 4,
             "text": "$A$ 在 $P$ 外",
-            "score": 12,
+            "score": 10,
             "regex": "4-.+",
             "validators": []
         },
         "6": {
             "index": 5,
             "text": "$N = 4$，$P$ 為二邊平行座標軸的矩形",
-            "score": 12,
+            "score": 11,
             "regex": "5-.+",
             "validators": []
         },
         "7": {
             "index": 6,
             "text": "$P$ 為凸多邊形",
-            "score": 12,
+            "score": 17,
             "regex": "6-.+",
             "validators": []
         },
         "8": {
             "index": 7,
             "text": "所有輸入的座標至多 $1$ 位小數",
-            "score": 12,
+            "score": 24,
             "regex": "7-.+",
             "validators": []
         },
         "9": {
             "index": 8,
             "text": "無特殊限制",
-            "score": 16,
+            "score": 21,
             "regex": ".+",
             "validators": []
         }

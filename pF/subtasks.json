@@ -4,77 +4,77 @@
     ],
     "subtasks": {
         "1": {
-            "index": 0,
+            "index": 1,
             "text": "範例測資",
             "score": 0,
             "regex": "0-.+",
             "validators": []
         },
         "2": {
-            "index": 1,
+            "index": 2,
             "text": "$n \\leq 10^6$",
             "score": 1,
             "regex": "1-.+",
             "validators": []
         },
         "3": {
-            "index": 2,
+            "index": 3,
             "text": "$b = 1,~k \\leq 3,~m = 10^9 + 7$",
             "score": 8,
             "regex": "2-.+",
             "validators": []
         },
         "4": {
-            "index": 3,
+            "index": 4,
             "text": "$b = 1,~m \\leq 10^6$",
             "score": 3,
             "regex": "3-.+",
             "validators": []
         },
         "5": {
-            "index": 4,
+            "index": 5,
             "text": "$m \\leq 1000,~\\text{gcd}(b,~m) = 1$",
             "score": 8,
             "regex": "4-.+",
             "validators": []
         },
         "6": {
-            "index": 5,
+            "index": 6,
             "text": "$m \\leq 1000$",
             "score": 10,
             "regex": "5-.+",
             "validators": []
         },
         "7": {
-            "index": 6,
+            "index": 7,
             "text": "$m$ 的質因數包含於 $b$ 的質因數",
             "score": 3,
             "regex": "6-.+",
             "validators": []
         },
         "8": {
-            "index": 7,
+            "index": 8,
             "text": "$k = 0,~\\text{gcd}(b-1,~m) = 1$",
             "score": 10,
             "regex": "7-.+",
             "validators": []
         },
         "9": {
-            "index": 8,
+            "index": 9,
             "text": "$k = 1,~\\text{gcd}(b-1,~m) = 1$",
             "score": 12,
             "regex": "8-.+",
             "validators": []
         },
         "10": {
-            "index": 9,
+            "index": 10,
             "text": "$k = 1$",
             "score": 15,
             "regex": "9-.+",
             "validators": []
         },
         "11": {
-            "index": 10,
+            "index": 11,
             "text": "無特殊限制",
             "score": 30,
             "regex": ".+",

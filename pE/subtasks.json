@@ -4,49 +4,49 @@
     ],
     "subtasks": {
         "1": {
-            "index": 0,
+            "index": 1,
             "text": "範例測資",
             "score": 0,
             "regex": "0_.+",
             "validators": []
         },
         "2": {
-            "index": 1,
+            "index": 2,
             "text": "$a_i = 3$",
             "score": 1,
             "regex": "1_.+",
             "validators": []
         },
         "3": {
-            "index": 2,
+            "index": 3,
             "text": "$\\sum{a_i} \\leq 18$",
             "score": 15,
             "regex": "2_.+",
             "validators": []
         },
         "4": {
-            "index": 3,
+            "index": 4,
             "text": "$1 \\leq a_i \\leq 8,~1 \\leq N \\leq 1000$",
             "score": 25,
             "regex": "3_.+",
             "validators": []
         },
         "5": {
-            "index": 4,
+            "index": 5,
             "text": "$\\sum{a_i} \\leq 500$",
             "score": 26,
             "regex": "4_.+",
             "validators": []
         },
         "6": {
-            "index": 5,
+            "index": 6,
             "text": "$\\sum{a_i} \\leq 10^5$",
             "score": 27,
             "regex": "5_.+",
             "validators": []
         },
         "7": {
-            "index": 6,
+            "index": 7,
             "text": "無特殊限制",
             "score": 6,
             "regex": ".+",

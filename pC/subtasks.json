@@ -4,56 +4,56 @@
     ],
     "subtasks": {
         "1": {
-            "index": 0,
+            "index": 1,
             "text": "範例測資",
             "score": 0,
             "regex": "0-.+",
             "validators": []
         },
         "2": {
-            "index": 1,
+            "index": 2,
             "text": "$N \\leq 5,~M \\leq 10$",
             "score": 4,
             "regex": "1-.+",
             "validators": []
         },
         "3": {
-            "index": 2,
+            "index": 3,
             "text": "$S = 1$, $1$ 至 $N$ 依序組成一條鏈",
             "score": 7,
             "regex": "2-.+",
             "validators": []
         },
         "4": {
-            "index": 3,
+            "index": 4,
             "text": "$M = N-1$",
             "score": 14,
             "regex": "3-.+",
             "validators": []
         },
         "5": {
-            "index": 4,
+            "index": 5,
             "text": "每個車站都恰好有 $2$ 條鐵道連接",
             "score": 18,
             "regex": "4-.+",
             "validators": []
         },
         "6": {
-            "index": 5,
+            "index": 6,
             "text": "$N \\leq 100$",
             "score": 20,
             "regex": "5-.+",
             "validators": []
         },
         "7": {
-            "index": 6,
+            "index": 7,
             "text": "$N \\leq 300,~M \\leq 1000$",
             "score": 23,
             "regex": "6-.+",
             "validators": []
         },
         "8": {
-            "index": 7,
+            "index": 8,
             "text": "無特殊限制",
             "score": 14,
             "regex": ".+",

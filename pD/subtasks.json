@@ -4,49 +4,49 @@
     ],
     "subtasks": {
         "1": {
-            "index": 0,
+            "index": 1,
             "text": "範例測資",
             "score": 0,
             "regex": "0-.+",
             "validators": []
         },
         "2": {
-            "index": 1,
+            "index": 2,
             "text": "$N \\leq 10,~M \\leq 15$",
             "score": 5,
             "regex": "1-.+",
             "validators": []
         },
         "3": {
-            "index": 2,
+            "index": 3,
             "text": "有一個景點可以根據「下一個景點」建議來到達其他任一景點，且該點到達每個景點恰只有一種參訪方式",
             "score": 13,
             "regex": "2-.+",
             "validators": []
         },
         "4": {
-            "index": 3,
+            "index": 4,
             "text": "每個景點至多 $1$ 個「下一個景點」建議，且最多只會出現在一個其他景點的「下一個景點」建議",
             "score": 12,
             "regex": "3-.+",
             "validators": []
         },
         "5": {
-            "index": 4,
+            "index": 5,
             "text": "$N \\leq 100$",
             "score": 21,
             "regex": "4-.+",
             "validators": []
         },
         "6": {
-            "index": 5,
+            "index": 6,
             "text": "所有景點的「下一個景點」建議都不超過 $10$ 個",
             "score": 22,
             "regex": "5-.+",
             "validators": []
         },
         "7": {
-            "index": 6,
+            "index": 7,
             "text": "無特殊限制",
             "score": 27,
             "regex": ".+",

@@ -7,42 +7,49 @@
             "index": 0,
             "text": "範例測資",
             "score": 0,
+            "regex": "0-.+",
             "validators": []
         },
         "1": {
             "index": 1,
             "text": "$N \\leq 10,~M \\leq 15$",
             "score": 16,
+            "regex": "1-.+",
             "validators": []
         },
         "2": {
             "index": 2,
             "text": "有一個景點可以根據「下一個景點」建議來到達其他任一景點",
             "score": 16,
+            "regex": "2-.+",
             "validators": []
         },
         "3": {
             "index": 3,
             "text": "每個景點至多 $1$ 個「下一個景點」建議，且沒有兩個景點的「下一個景點」建議是相同的",
             "score": 16,
+            "regex": "3-.+",
             "validators": []
         },
         "4": {
             "index": 4,
             "text": "$N \\leq 100$",
             "score": 16,
+            "regex": "4-.+",
             "validators": []
         },
         "5": {
             "index": 5,
             "text": "所有景點的「下一個景點」建議都不超過 $10$ 個",
             "score": 16,
+            "regex": "5-.+",
             "validators": []
         },
         "6": {
             "index": 6,
             "text": "無特殊限制",
             "score": 20,
+            "regex": ".+",
             "validators": []
         }
     }

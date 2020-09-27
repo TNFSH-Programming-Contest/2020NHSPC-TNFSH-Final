@@ -7,66 +7,77 @@
             "index": 0,
             "text": "範例測資",
             "score": 0,
+            "regex": "0-.+",
             "validators": []
         },
         "1": {
             "index": 1,
             "text": "$n \\leq 10^6$",
             "score": 10,
+            "regex": "1-.+",
             "validators": []
         },
         "2": {
             "index": 2,
             "text": "$b = 1,~k \\leq 3,~m = 10^9 + 7$",
             "score": 10,
+            "regex": "2-.+",
             "validators": []
         },
         "3": {
             "index": 3,
             "text": "$b = 1,~m \\leq 10^6$",
             "score": 10,
+            "regex": "3-.+",
             "validators": []
         },
         "4": {
             "index": 4,
             "text": "$m \\leq 1000,~\\text{gcd}(b,~m) = 1$",
             "score": 10,
+            "regex": "4-.+",
             "validators": []
         },
         "5": {
             "index": 5,
             "text": "$m \\leq 1000$",
             "score": 10,
+            "regex": "5-.+",
             "validators": []
         },
         "6": {
             "index": 6,
             "text": "$m$ 的質因數包含於 $b$ 的質因數",
             "score": 10,
+            "regex": "6-.+",
             "validators": []
         },
         "7": {
             "index": 7,
             "text": "$k = 0,~\\text{gcd}(b-1,~m) = 1$",
             "score": 10,
+            "regex": "7-.+",
             "validators": []
         },
         "8": {
             "index": 8,
             "text": "$k = 1,~\\text{gcd}(b-1,~m) = 1$",
             "score": 10,
+            "regex": "8-.+",
             "validators": []
         },
         "9": {
             "index": 9,
             "text": "$k = 1$",
             "score": 10,
+            "regex": "9-.+",
             "validators": []
         },
         "10": {
             "index": 10,
             "text": "無特殊限制",
             "score": 10,
+            "regex": ".+",
             "validators": []
         }
     }

@@ -21,7 +21,7 @@
 第一行有四個數字，依序為 $b, n, m, k$。  
 
 ## 輸出
-輸出 $\left(\displaystyle\sum_{i=1}^n i^k \cdot b^i\right) \text{(mod m)}$。  
+輸出 $\left(\displaystyle\sum_{i=1}^n i^k \cdot b^i\right) (\text{mod}~m)$。  
 
 ## 輸入限制
  - $0 \leq k \leq 100$

@@ -12,7 +12,7 @@
         },
         "2": {
             "index": 2,
-            "text": "$N \\leq 10,~M \\leq 15$",
+            "text": "$N \\leq 10$，$M \\leq 15$",
             "score": 5,
             "regex": "1-.+",
             "validators": []

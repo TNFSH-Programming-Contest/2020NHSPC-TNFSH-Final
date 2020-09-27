@@ -26,7 +26,7 @@
         },
         "4": {
             "index": 4,
-            "text": "$1 \\leq a_i \\leq 8,~1 \\leq N \\leq 1000$",
+            "text": "$1 \\leq a_i \\leq 8$，$1 \\leq N \\leq 1000$",
             "score": 25,
             "regex": "3_.+",
             "validators": []

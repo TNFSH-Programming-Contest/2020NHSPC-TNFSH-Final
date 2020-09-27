@@ -1,4 +1,4 @@
-# Kuma
+# 熊熊
 
 \begin{figure}[h]
 \centering

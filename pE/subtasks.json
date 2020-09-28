@@ -35,14 +35,14 @@
             "index": 5,
             "text": "$\\sum{a_i} \\leq 500$",
             "score": 26,
-            "regex": "4_.+",
+            "regex": "[24]_.+",
             "validators": []
         },
         "6": {
             "index": 6,
             "text": "$\\sum{a_i} \\leq 10^5$",
             "score": 27,
-            "regex": "5_.+",
+            "regex": "[25]_.+",
             "validators": []
         },
         "7": {

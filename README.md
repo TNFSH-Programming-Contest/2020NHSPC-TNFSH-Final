@@ -5,7 +5,7 @@
 [problems.pdf](pA/attachments/problems.pdf)
 
 | ID | tests | statement | config |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | A. 熊熊 | [tests](pA/tests) | [statement](pA/statement) [md](pA/statement/index.md) [pdf](pA/statement/index.pdf) | [problem](pA/problem.json) [solutions](pA/solutions.json) [subtasks](pA/subtasks.json) |
 | B. LiGHTs | [tests](pB/tests) | [statement](pB/statement) [md](pB/statement/index.md) [pdf](pB/statement/index.pdf) | [problem](pB/problem.json) [solutions](pB/solutions.json) [subtasks](pB/subtasks.json) |
 | C. ChamJam | [tests](pC/tests) | [statement](pC/statement) [md](pC/statement/index.md) [pdf](pC/statement/index.pdf) | [problem](pC/problem.json) [solutions](pC/solutions.json) [subtasks](pC/subtasks.json) |

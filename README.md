@@ -2,6 +2,8 @@
 109學年度資訊學科能力競賽臺南一中校內複選
 
 ## Quick Links
+[problems.pdf](pA/attachments/problems.pdf)
+
 | ID | gen | solution | tests | statement | validator | config |
 | --- | --- | --- | --- | --- | --- | --- |
 | A. 熊熊 | [gen](pA/gen) [manual](pA/gen/manual) | [solution](pA/solution) [check](pA/solutions-check.txt) | [tests](pA/tests) | [statement](pA/statement) [md](pA/statement/index.md) [pdf](pA/statement/index.pdf) | [validator](pA/validator) |[problem](pA/problem.json) [solutions](pA/solutions.json) [subtasks](pA/subtasks.json) |
